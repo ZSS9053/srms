@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "categoryId": "1",
+    "supplierId": "1",
+    "name": "夏装新款韩版宽松显瘦纱网拼接雪纺连衣裙收腰五分袖假两件打底裙",
+    "imgUrls": "p_1.jpg,p_5.jpg",
+    "unit": "件",
+    "description": "百搭随心，时尚穿着，专属你的必备单品，时尚菇凉必备哦！",
+    "updateTime": "2017-04-26 10:02",
+    "specs": [
+      {
+        "id": "1",
+        "specKey1": "尺码",
+        "specVal1": "XL",
+        "specKey2": "颜色",
+        "specVal2": "红色",
+        "lessPrice": "59.50",
+        "normalPrice": "55.00",
+        "mallPrice": "50.00"
+      },
+      {
+        "id": "2",
+        "specKey1": "尺码",
+        "specVal1": "L",
+        "specKey2": "颜色",
+        "specVal2": "蓝色",
+        "lessPrice": "59.50",
+        "normalPrice": "55.00",
+        "mallPrice": "50.00"
+      },
+      {
+        "id": "3",
+        "specKey1": "尺码",
+        "specVal1": "M",
+        "specKey2": "颜色",
+        "specVal2": "黑色",
+        "lessPrice": "59.50",
+        "normalPrice": "55.00",
+        "mallPrice": "50.00"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "categoryId": "1",
+    "supplierId": "1",
+    "name": "男士防晒衣夏季透气速干夹克超薄皮肤衣男韩版修身防晒服男外套",
+    "imgUrls": "p_2.jpg",
+    "unit": "件",
+    "description": "这是男士防晒衣夏季透气速干夹克超薄皮肤衣男韩版修身防晒服男外套的详情",
+    "updateTime": "2017-04-26 10:02",
+    "specs": [
+      {
+        "id": "1",
+        "specKey1": "尺码",
+        "specVal1": "XL",
+        "specKey2": "颜色",
+        "specVal2": "红色",
+        "lessPrice": "159.50",
+        "normalPrice": "155.00",
+        "mallPrice": "150.00"
+      },
+      {
+        "id": "2",
+        "specKey1": "尺码",
+        "specVal1": "L",
+        "specKey2": "颜色",
+        "specVal2": "蓝色",
+        "lessPrice": "159.50",
+        "normalPrice": "155.00",
+        "mallPrice": "150.00"
+      },
+      {
+        "id": "3",
+        "specKey1": "尺码",
+        "specVal1": "M",
+        "specKey2": "颜色",
+        "specVal2": "黑色",
+        "lessPrice": "159.50",
+        "normalPrice": "155.00",
+        "mallPrice": "150.00"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "categoryId": "1",
+    "supplierId": "1",
+    "name": "2017夏季新款韩版甜美气质镂空收腰蕾丝短袖A字裙连衣裙女潮",
+    "imgUrls": "p_3.jpg,p_4.jpg",
+    "unit": "件",
+    "description": "这是2017夏季新款韩版甜美气质镂空收腰蕾丝短袖A字裙连衣裙女潮的详情",
+    "updateTime": "2017-04-26 10:02",
+    "specs": [
+      {
+        "id": "1",
+        "specKey1": "尺码",
+        "specVal1": "XL",
+        "specKey2": "颜色",
+        "specVal2": "红色",
+        "lessPrice": "259.50",
+        "normalPrice": "255.00",
+        "mallPrice": "250.00"
+      },
+      {
+        "id": "2",
+        "specKey1": "尺码",
+        "specVal1": "L",
+        "specKey2": "颜色",
+        "specVal2": "蓝色",
+        "lessPrice": "259.50",
+        "normalPrice": "255.00",
+        "mallPrice": "250.00"
+      },
+      {
+        "id": "3",
+        "specKey1": "尺码",
+        "specVal1": "M",
+        "specKey2": "颜色",
+        "specVal2": "黑色",
+        "lessPrice": "259.50",
+        "normalPrice": "255.00",
+        "mallPrice": "250.00"
+      }
+    ]
+  }
+]
